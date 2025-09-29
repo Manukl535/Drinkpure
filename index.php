@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Buy RO Water Purifiers & Service | Drinkpure India</title>
+	<title>Buy RO Water Purifiers & Service | Drinkpure Ro Water Solutions</title>
 	<meta name="description" content="Buy all kinds of branded and customized RO water purifiers for home, commercial, and industrial use in Bengaluru, Bangalore, Banglore, and all over Karnataka. Book service and maintenance. Trusted RO brand in India.">
 	<meta name="keywords" content="RO water purifier, water filter, water purifier India, RO service, industrial RO, commercial RO, domestic RO, water purifier maintenance, best RO, RO repair, Bengaluru, Bangalore, Banglore, Karnataka, RO service Bengaluru, RO service Bangalore, RO service Karnataka, water purifier Karnataka, RO sales Bengaluru, RO sales Bangalore, RO sales Karnataka, RO near me, RO near my location, RO near Bangalore, RO near Bengaluru, RO near Banglore, RO in Karnataka, water purifier near me, water purifier near Bangalore, water purifier near my location, water purifier anywhere in Karnataka, RO service near me, RO service near Bangalore, RO service near my location, RO service anywhere in Karnataka">
 	<meta name="robots" content="index, follow">
@@ -27,7 +27,7 @@
 <body>
 	<header class="header">
 		<h1 class="logo">Drinkpure</h1>
-		<p class="tagline">RO Water Purifiers - Sales & Service</p>
+		<p class="tagline">RO Water Purifiers  Sales & Service</p>
 		<nav class="nav">
 			<a href="/Drinkpure/public/" class="nav-link">Home</a>
 			<a href="/Drinkpure/public/products" class="nav-link">Products</a>

@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../config/database.php';
+require_once __DIR__ . '/../../config/connection.php';
 class Product {
     public static function all() {
         global $pdo;
