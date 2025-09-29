@@ -1,0 +1,11 @@
+# Connection.php is not allowed to be committed
+config/Connection.php
+
+# Ignore all .env files
+.env
+
+# Ignore vendor directory
+vendor/
+
+# Ignore sql directory
+sql/
