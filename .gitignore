@@ -9,3 +9,6 @@ vendor/
 
 # Ignore sql directory
 sql/
+
+# Ignore .gitignore file itself
+.gitignore
